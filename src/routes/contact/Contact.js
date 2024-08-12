@@ -4,7 +4,7 @@ import ContactForm from "./ContactForm";
 import "./Contact.sass";
 const Contact = () => {
   useEffect(() => {
-    document.title = "Contact | Sophia Martinez";
+    document.title = "Contact | Nalini Uday Timmaraju";
     window.scrollTo(0, 0);
   })
   return (
@@ -13,7 +13,7 @@ const Contact = () => {
       <p className="white-text p-tag">
         If you are interested in hiring me I am always open to new opportunities
         and interesting projects! Feel free to contact me if you have any other
-        requests or questions regarding web development.
+        requests or questions regarding DevOps projects.
       </p>
       <ContactForm />
       <Footer />

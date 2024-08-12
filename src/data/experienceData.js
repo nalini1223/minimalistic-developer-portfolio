@@ -1,63 +1,63 @@
 const experienceData = [
   {
     id: 1,
-    jobtitle: "Marketing Campaign Manager",
-    companyname: "InnovateX Solutions",
+    jobtitle: "Lead DevOps Engineer",
+    companyname: "T-Mobile",
     worktype: "Full-time",
-    duration: "Jan 2020 - Oct 2023",
+    duration: "August 2021 - February 2023 ",
     location: "Tbilisi, Georgia",
     responsibility: [
-      `Developed and executed innovative marketing campaigns that resulted in a 20% increase in brand visibility and a 15% rise in customer engagement.`,
-      `Collaborated with cross-functional teams to create compelling content for digital and print channels, ensuring consistent brand messaging.`,
-      `Conducted market research and competitor analysis, identifying key trends and insights to refine campaign strategies.`,
-      `Utilized data analytics to measure campaign performance, adjusting tactics in real-time to maximize ROI.`,
-      `Managed a team of graphic designers and copywriters, fostering a collaborative environment and ensuring timely delivery of high-quality assets.`
+      `Directed DevOps team, enhancing app efficiency by 20% via cutting-edge solutions.`,
+      `Spearheaded middleware updates, reducing system latency by 25%.`,
+      `Achieving a 99.5% uptime and enhancing system reliability.`,
+      `Developed a proprietary monitoring tool, reducing resolution time for critical incidents by 20%, Revolutionized system monitoring, curbing downtime by 40%.`,
+      `Enhancing user satisfaction and ooverhauled network security framework, meeting 100% of compliance standards.`
     ],
   },
   {
     id: 2,
-    jobtitle: "Social Media Strategist",
-    companyname: "NexaReach Marketing Agency",
+    jobtitle: "DevOps Engineer",
+    companyname: "Google",
     worktype: "Full-time",
     duration: "Sep 2019 - Jan 2020",
     location: "Tbilisi, Georgia",
     responsibility: [
-      `Devised and executed dynamic social media strategies across platforms, resulting in a 25% growth in follower base and a 30% boost in user engagement.`,
-      `Created engaging and shareable content, leveraging both visual and written components to enhance brand storytelling.`,
-      `Collaborated with clients to understand their unique voice and objectives, tailoring social media plans to align with their brand identity.`,
-      `Monitored social media trends and emerging platforms, recommending and implementing new strategies to keep clients ahead of the curve.`,
+      `Led the design and execution of a microservices-based Continuous Deployment pipeline at Google.`,
+      `Approximately 30% of the effort will be dedicated to analyzing the architecture requirements and selecting GitLab CI/CD.`,
+      `Around 20% will be allocated to integrating the CD pipeline with version control systems, issue tracking tools, and monitoring solutions to ensure end-to-end visibility and traceability.`,
+      `Finally, the remaining 10% will involve testing and refining the CD pipeline to optimize performance, reliability, and scalability. The objective is to automate the deployment process, ensuring rapid and reliable delivery of software updates while maintaining system stability and scalability.`,
     ],
   }
 ];
 
 const educationData = [
   {
-    name: "Emerald College",
-    status: "Bachelor of Science in Computer Science",
-    year: "2021",
+    name: "Cumberland University ",
+    status: "Masters in ITM",
+    year: "2025",
   },
   {
-    name: "Cityville High School",
-    status: "High School Diploma",
-    year: "2012",
+    name: "Bapatla Women's Engineer College",
+    status: "Bachelor's in ECE",
+    year: "2018",
   }
 ];
 
 const certificationData = [
   {
-    name: "HTML and CSS in depth",
-    source: "Meta",
+    name: "Google Workspace Admin",
+    source: "Google",
     date: "Issued Sept 2022 · No Expiration Date"
   },
   {
-    name: "Interactivity with JavaScript",
-    source: "University of Michigan",
-    date: "Issued Sept 2022 · No Expiration Date"
+    name: "AWS DevOps - Professional",
+    source: "Amazon Web Services",
+    date: "Issued Sept 2018 · No Expiration Date"
   },
   {
-    name: "React Basics",
-    source: "Meta",
-    date: "Issued Sept 2022 · No Expiration Date"
+    name: "Harness Cloud Deployement & GitOps",
+    source: "Harness University",
+    date: "Issued August 2024 · No Expiration Date"
   }
 ];
 
