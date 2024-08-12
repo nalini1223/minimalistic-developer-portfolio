@@ -19,10 +19,10 @@ const projectsData = [
     img: urlShortener,
     name: "URL Shortener",
     stack: ["< HTML5 />", "< CSS />", "< Vanilla JS />", "< RESTful API />"],
-    src: "https://catherineisonline.github.io/url-shortening-api-frontendmentor/",
-    source: "https://github.com/catherineisonline/url-shortening-api-frontendmentor",
+    src: "https://www.shortlyai.com/write/11745752/",
+    source: "https://github.com/nalini1223/Arduino-Morse-Code-Translator",
     description:
-      "The goal of this landing page challenge is integration with the shrtcode URL shortening API and playing with browser storage. The challenge is to integrate with the shrtcode API to create shortened URLs and display them like in the designs. You can use any JavaScript framework/library on the front-end such as React or Vue. You also have complete control over which packages you use to do things like make HTTP requests or style your project.",
+      "In Morse code, each number and letter of the alphabet are represented by a series of dots and dashes. Create your own message in morse code using only one LED and an Arduino board. Morse Code Day (27th of April) pays tribute to this traditional form of communication that has been in practice for nearly 160 years. It involves using standardized sequences of two different signal durations: dots and dashes. It was named after Samuel F. B. Morse, that contributed to the telegraph invention.",
   },
   {
     id: "bankist",
@@ -33,16 +33,6 @@ const projectsData = [
     source: "https://github.com/catherineisonline/bankist",
     description:
       "Bankist is a fictional online bank and its goal is to practice DOM manipulation and user interaction. Bankist has an option to log in to the account and use different functionalities, almost like in an actual bank! By logging into your account you can transfer money to another account, take a loan or delete the account. Please check README for login info.",
-  },
-  {
-    id: "edgy",
-    img: Edgy,
-    name: "Edgy",
-    stack: ["< Tailwind />", "< React.js />", "< Express.js />", "< Airtable API />", "< Google ReCaptcha />"],
-    src: "https://catherineisonline.github.io/edgy/",
-    source: "https://github.com/catherineisonline/edgy",
-    description:
-      "Edgy - is a social media marketing agency that offers Instagram growth services to businesses and beginner influencers. The website includes prices, a contact form, a blog, a careers page, and more.",
   },
 ];
 
